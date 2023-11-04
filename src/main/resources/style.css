@@ -1,0 +1,28 @@
+body {
+    margin-top: 10%;
+    height: 1200px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #5D6063;
+    padding-top: 10%
+}
+
+a:link,
+a:visited {
+    color: #5D6063;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    margin-top: 10%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+
+    width: 100%;
+    padding: 50px;
+    background: #D6E9FE;
+}
